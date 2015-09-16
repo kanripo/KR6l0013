@@ -1,28 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:08.470231
+#+DATE: 2015-08-30 20:50:18.780866
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1548
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0013_T_021-0661a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 21
 ¶
 ¶
-
- 《舍利弗阿毘曇論》卷第二十一¶
+《舍利弗阿毘曇論》卷第二十一¶
 ¶
 姚秦罽賓三藏曇摩耶舍¶
 共曇摩崛多等譯¶
 
-攝相應分
-1攝品
-:PROPERTIES:
-:head: 攝相應分攝品之一
-:END:
-¶
+攝相應分攝品之一¶
 
 一切攝非攝法。當知若立攝門便知。陰界入¶
 攝一切法。陰界入不攝一切法。陰界入如事¶
@@ -555,7 +549,7 @@
 非苦聖諦法。非苦聖諦法幾陰界入攝。問何¶
 等法。問非苦聖諦法。除餘法。除何等法。除苦¶
 聖諦法。乃至道聖諦法亦如是。眼根法幾陰¶
-界入攝。問何等法。問眼根法。除餘法。除何等¶
+界入攝。問何等法。問根根法。除餘法。除何等¶
 法。除非眼根法。非眼根法幾陰界入攝。問何¶
 等法。問非眼根法。除餘法。除何等法。除眼根¶
 法。乃至知已根法亦如是。念覺法幾陰界入¶

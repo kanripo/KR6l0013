@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:08.597007
+#+DATE: 2015-08-30 20:50:18.889267
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1548
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0013_T_025-0679b> 
 #+PROPERTY: JUAN 25
 ¶
-
- 《舍利弗阿毘曇論》卷第二十五¶
+《舍利弗阿毘曇論》卷第二十五¶
 ¶
 姚秦罽賓三藏曇摩耶舍¶
 共曇摩崛多等譯¶
 
-緒分
-1遍品
-:PROPERTIES:
-:head: 緒分遍品第一
-:END:
-¶
+緒分遍品第一¶
 
 十緣正法門遍緒七轉十行解一切法等入。¶
 十緣。謂因緣無間緣境界緣依緣業緣報緣¶
