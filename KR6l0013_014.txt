@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:08.250364
+#+DATE: 2015-08-30 20:50:21.510820
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1548
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0013_T_014-0619c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《舍利弗阿毘曇論》卷第十四¶
+《舍利弗阿毘曇論》卷第十四¶
 ¶
 姚秦罽賓三藏曇摩耶舍¶
 共曇摩崛多等譯¶
 
-9禪品
-:PROPERTIES:
-:head: 非問分禪品第九
-:END:
-¶
+非問分禪品第九¶
 
 因緣具足。則能得定。因緣不具。不能得定修¶
 定有如此因緣。謂比丘愛護解脫戒。成就威¶
