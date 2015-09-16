@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:07.934889
+#+DATE: 2015-08-30 20:50:16.788839
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1548
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0013_T_004-0552c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《舍利弗阿毘曇論》卷第四¶
+《舍利弗阿毘曇論》卷第四¶
 ¶
 姚秦罽賓三藏曇摩耶舍¶
 共曇摩崛多等譯¶
 
-4四聖諦品
-:PROPERTIES:
-:head: 問分四聖諦品第四
-:END:
-¶
+問分四聖諦品第四¶
 
 問曰。幾聖諦。答曰四。何等四。苦聖諦。苦集¶
 聖諦。苦滅聖諦。苦滅道聖諦。云何苦聖諦。¶
@@ -662,8 +657,7 @@
 細堅軟澁滑。欲行心所起去來屈申迴轉身教¶
 集。聲音句言語口教。外色眼識所知。欲漏有¶
 漏為外觸身識所知。欲漏有漏身口非戒無¶
-教。有漏身口戒無教。有漏身進。受想思惟¶
-觸見慧解脫無癡順信悔不悔悅喜心進信欲¶
+教。有漏身口戒無教。有漏身進。受想思惟觸見慧解脫無癡順信悔不悔悅喜心進信欲¶
 不放逸念疑怖煩惱使生老死命結眼識及色¶
 三二識。是名苦聖諦欲界繫。云何苦聖諦色
 <pb:KR6l0013_T_004-0559c>¶

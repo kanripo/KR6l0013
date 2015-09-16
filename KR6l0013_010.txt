@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:08.125143
+#+DATE: 2015-08-30 20:50:16.995218
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1548
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0013_T_010-0596b> 
 #+PROPERTY: JUAN 10
 ¶
-
- 《舍利弗阿毘曇論》卷第十¶
+《舍利弗阿毘曇論》卷第十¶
 ¶
 姚秦罽賓三藏曇摩耶舍¶
 共曇摩崛多等譯¶
@@ -300,8 +299,7 @@
 適意報有是處。非處謂身行不善口行不善意¶
 行不善。成就謗聖人邪見業。故彼因緣身壞¶
 命終。生善道人天中非處。若身行不善口行¶
-不善意行不善。成就謗聖人邪見行。緣邪見¶
-業故彼因緣故身壞命終。生惡道地獄中有¶
+不善意行不善。成就謗聖人邪見行。緣邪見業故彼因緣故身壞命終。生惡道地獄中有¶
 是處。非處若身善行口善行意善行。成就不¶
 謗聖人正見行。緣正見業因緣故。身壞命終¶
 生惡道地獄中非處。若身善行口善行意善¶
