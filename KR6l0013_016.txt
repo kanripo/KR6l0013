@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 12:24
+#+DATE: 2016-06-08 12:25
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1548
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0013_T_016-0631c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
@@ -534,7 +534,7 @@
 因宿業報。因諸大不調生病。生眼病。耳鼻舌¶
 身病生。頭痛面痛。口齒咽痛。胸痛病。生蛇¶
 身病。呼嗐痛。謦欬病。嘔吐病。生絞病。身¶
-熱腹痛病。生癬胞疥瘙微風侵婬瘡癰蛆¶
+熱腹痛病。生癬胞疥[癈-(弓*殳)+虫]微風侵婬瘡癰蛆¶
 白癩乾枯癲狂病生痔病㿃下赤腫虫食病¶
 等。蚤螕虱蚊虻蟻子。此身乃至一毛處。無不¶
 有虫。如人癰腫上生毒腫五受陰行性苦
