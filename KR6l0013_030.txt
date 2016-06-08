@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:08.782471
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:24
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1548
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0013_T_030-0713c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《舍利弗阿毘曇論》卷第三十¶
+《舍利弗阿毘曇論》卷第三十¶
 ¶
 姚秦罽賓三藏曇摩耶舍¶
 共曇摩崛多等譯¶
@@ -30,8 +29,7 @@
 學已。若一樹下。若二三乃至十樹下。以清¶
 淨心遍解行有明勝心。如實人若想憶想。是¶
 名明想。若定此想共生共住共滅。是名共明¶
-想定。如比丘定親近多修學已。若一園二¶
-三乃至十園。以清淨心遍解行有明勝心。如¶
+想定。如比丘定親近多修學已。若一園二三乃至十園。以清淨心遍解行有明勝心。如¶
 實人若想憶想。是名明想。若定此想共生共¶
 住共滅。是名共明想定。如比丘定親近多修¶
 學已。若一園二三乃至十園。以清淨心遍解¶
