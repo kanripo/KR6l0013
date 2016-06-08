@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:07.969055
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:24
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
@@ -17,7 +17,7 @@
 姚秦罽賓三藏曇摩耶舍¶
 共曇摩崛多等譯¶
 
-5根品
+** 5根品
 :PROPERTIES:
 :head: 問分根品第五
 :END:

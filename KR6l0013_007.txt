@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:08.031634
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:24
 #+TITLE: 舍利弗阿毘曇論
 #+PROPERTY: CBETA_ID T28n1548
 #+PROPERTY: ID KR6l0013
@@ -17,8 +17,8 @@
 姚秦罽賓三藏曇摩耶舍¶
 共曇摩崛多等譯¶
 
-非問分
-1界品
+* 非問分
+** 1界品
 :PROPERTIES:
 :head: 非問分界品第一
 :END:
@@ -461,7 +461,7 @@
 界觸界身識界。意界法界意識界。是名十八¶
 界。¶
 
-2業品
+** 2業品
 :PROPERTIES:
 :head: 《舍利弗阿毘曇論》非問分業品第二
 :END:
